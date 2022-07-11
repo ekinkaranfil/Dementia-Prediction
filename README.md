@@ -3,6 +3,6 @@ The purpose of the project; Diagnosing the disease by creating a machine learnin
 
 # More
 This study is based on the comparison and evaluation of different machine learning algorithms. 
-From  the classification algorithms; K-Nearest Neighbors, Support Vector Machine and Desicion Tree were used. Hyperparameters were determined by applying GridSearchCV with 5-fold cross validation for each model. It was determined that the best model is the decision tree model.
+From  the classification algorithms; K-Nearest Neighbors, Support Vector Machine and Decision Tree were used. Hyperparameters were determined by applying GridSearchCV with 5-fold cross validation for each model. It was determined that the best model is the decision tree model.
 
 
